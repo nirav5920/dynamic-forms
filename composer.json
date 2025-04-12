@@ -1,5 +1,5 @@
 {
-    "name": "artisans/northwestern-sysdev/dynamic-forms",
+    "name": "northwestern-sysdev/dynamic-forms",
     "description": "Dynamic Forms for Laravel",
     "type": "library",
     "license": "MIT",
