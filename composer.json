@@ -22,7 +22,7 @@
         {
             "type": "vcs",
             "url": "https://github.com/nirav5920/lodash-php"
-        },
+        }
     ],
     "require": {
         "php": "^8.2",
@@ -34,7 +34,7 @@
         "symfony/finder": "^6|^7",
         "nesbot/carbon": "^3",
         "jwadhams/json-logic-php": "^1.4",
-        "northwestern-sysdev/lodash-php": "^2.0.0"
+        "nirav5920/lodash-php": "dev-master"
     },
     "require-dev": {
         "orchestra/testbench": "^10",
