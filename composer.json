@@ -18,6 +18,12 @@
             "email": "saood.karim@northwestern.edu"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/nirav5920/lodash-php"
+        },
+    ],
     "require": {
         "php": "^8.2",
         "aws/aws-sdk-php": "^3.80|^4",
